@@ -1,0 +1,7 @@
+simple database for keep your source code
+
+1. Create database (sql/db_<datetime>.sql)
+2. Change database config in file config.php
+3. Create link to my_sources
+3. Try 
+
