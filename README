@@ -1,7 +1,12 @@
-simple database for keep your source code
+Description:
 
-1. Create database (sql/db_<datetime>.sql)
+light and simple database for keep your short source code
+
+1. Create database (sql/db_<date>.sql)
 2. Change database config in file config.php
-3. Create link to my_sources
-3. Try 
+3. Create link to my_sources 
+  (example: sudo ln -s \
+	~/developing/mySourceCode.git/my_sources \
+	/var/www/my_sources)
+3. Try
 
